@@ -1,4 +1,4 @@
-package Prelim;
+package Midterm;
 
 public class encapsulationOOP {
 
